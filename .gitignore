@@ -116,5 +116,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Don't include sensitive token
+# Don't include sensitive tokens
 *.token
