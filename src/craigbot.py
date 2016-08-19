@@ -7,7 +7,6 @@ class CraigBot():
     def __init__(self):
         self.client = discord.Client()
         self.client.run("YOUR_TOKEN_HERE")
-	#
 
 def main():
     CraigBot()

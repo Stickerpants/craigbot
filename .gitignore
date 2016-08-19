@@ -115,3 +115,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Don't include sensitive token
+*.token
