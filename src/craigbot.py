@@ -6,7 +6,8 @@ import asyncio
 class CraigBot():
     def __init__(self):
         self.client = discord.Client()
-        self.client.run("MjEwNTkzOTA1MjQwOTY1MTIx.CphYgQ._0rplIifnnLA9ItMqfF5mb-GrqE")
+        self.client.run("YOUR_TOKEN_HERE")
+	#
 
 def main():
     CraigBot()
